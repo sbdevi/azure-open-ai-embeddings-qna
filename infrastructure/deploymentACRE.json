@@ -451,7 +451,7 @@
             ]
           },
           "use32BitWorkerProcess": false,
-          "linuxFxVersion": "DOCKER|fruocco/oai-batch:latest",
+          "linuxFxVersion": "DOCKER|sarvesh1511/searchgen-batch:latest",
           "appCommandLine": "",
           "alwaysOn": true
         },
