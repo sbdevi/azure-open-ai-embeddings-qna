@@ -168,7 +168,7 @@
     }
   },
   "variables": {
-    "WebAppImageName": "DOCKER|fruocco/oai-embeddings",
+    "WebAppImageName": "DOCKER|sarvesh1511/searchgen-embeddings",
     "BlobContainerName": "documents",
     "FileShareName": "redisdata",
     "QueueName": "doc-processing",
